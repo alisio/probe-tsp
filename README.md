@@ -2,7 +2,7 @@
 
 O Problema do Caixeiro Viajante "tenta determinar a menor rota para percorrer uma série de cidades (visitando uma única vez cada uma delas), retornando à cidade de origem. Ele é um problema de otimização NP-difícil inspirado na necessidade dos vendedores em realizar entregas em diversos locais (as cidades) percorrendo o menor caminho possível..." (Wikipedia, 2020)
 
-Este notebook almeja ilustrar conceitos de aprendizado de máquina aplicados na otimização dos serviços de uma empresa de segurança patrimonial fictícia, que utiliza drones aéreos para monitoração, cujo problema a ser resolvido é similar ao problema do caixeiro viajante.
+Este notebook do Google Colab almeja ilustrar conceitos de aprendizado de máquina aplicados na otimização dos serviços de uma empresa de segurança patrimonial fictícia, que utiliza drones aéreos para monitoração, cujo problema a ser resolvido é similar ao problema do caixeiro viajante.
 
 O algoritmo utiliza heurística construtiva, do tipo 2-opt, codificado em Python, para determinar a rota otimizada dos vôos dos drones aéreos de monitoração.
 
