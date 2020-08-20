@@ -47,7 +47,7 @@ A Probe precisa monitorar os prédios pertencentes à prefeitura de Fortaleza, e
 
  A rota mais curta de monitoração dos patrimônios indicados pela prefeitura do município de Fortaleza, calculada a partir de algoritmo 2-opt, é de **65.1 km**
 
-A imagem abaixo ilustra a rota mais curta definida pelo algoritmo PCV™, iniciada pela bairro Meireles.
+A imagem abaixo ilustra a rota mais curta definida pelo algoritmo PCV™, iniciada pelo bairro Meireles.
 
 ![Rota Renderizada](https://github.com/alisio/probe-tsp/blob/master/rota_renderizada.png)
 
